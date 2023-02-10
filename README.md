@@ -1,2 +1,3 @@
-# PythonQrCode
-Small Python QR Code program
+# Universal QrCode Generator
+
+QrCode Generators in every language.
